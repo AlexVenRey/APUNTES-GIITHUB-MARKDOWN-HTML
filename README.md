@@ -1,1 +1,43 @@
 # APUNTES-GIITHUB-MARKDOWN-HTML
+Els passos que fet seservir són els següents:
+  Primer hem hagut d'instal·lar el GitHub i el VisualStudioCode
+  
+__1. GITHUB__
+  GitHub, és una pàgina web que serveix per crear i guardar els repositoris que anem creant. També amb el CMD (Símbol del Sistema) del nostre equip podem fer una cópia  local per treballar des del teu equip i no des del navegador.
+[Llista de comandos](https://gist.github.com/dasdo/9ff71c5c0efa037441b6 "Llista de comandos")
+
+__2. VISUAL STUDIO CODE__
+  Per a descarregar-ho hem accedit a la pàgina web de Visual Studio code, i ens hem descarregat la versió de 64 bits.
+  [VisualStudioCode](https://code.visualstudio.com/ "VisualStudioCode")
+  
+__3. MARKDOWN__
+  El primer llenguatge de marques que hem vist ha sigut Markdown, i hem vist el següent:
+
+1) Encapçalats
+  En Markdown hi ha 6 tipus diferents d'encapçalats, que són de més gran a més petit. Per a posar un encapçalat el que hem de fer és posar una etiqueta (#) al principi de cada linia. Segons el nombre d'etiquetes que posis a l'inici, la grandària de l'encapçalat serà més gran o més petit.
+Diferents tipus d'encpçalats:
+
+#Encapçalat#
+
+##Encapçalat##
+
+###Encapçalat###
+
+####Encapçalat####
+
+#####Encapçalat#####
+
+######Encapçalat######
+
+2) Negreta o cursiva
+  Per a posar negreta el que hem de fer és posar dues barres baixes al principi i final de la frase o paraula, com per exemple en el nostre cas __ALEX__ .
+  
+  D'altra banda també tenim la cursiva que en aquest cas es posa amb un asteric al principi i al final de la frase o paraula, com ara *ALEX* .
+  
+  Per últim tenim la combinació d'aquestes dues que es fa posant primer les barres baixes i seguidament l'astérisc, per exemple __*ALEX*__ .
+  
+3) Imatges
+
+
+
+
