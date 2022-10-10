@@ -1,4 +1,4 @@
-# APUNTES-GIITHUB-MARKDOWN-HTML
+# APUNTS-GIITHUB-MARKDOWN-HTML
 Els passos que fet seservir són els següents:
   Primer hem hagut d'instal·lar el GitHub i el VisualStudioCode
   
