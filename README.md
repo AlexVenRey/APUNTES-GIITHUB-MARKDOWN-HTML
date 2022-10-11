@@ -43,5 +43,19 @@ També podem introduir imatges utilitzant un signe d'exclamació i seguit obrim 
 
 ![foto](https://www.larepublica.net/storage/images/2019/08/23/20190823094751.informatica.x2.jpg "Clic per anar a la foto")
 
+4) Llistes
+
+Hi ha 2 tipus de llistes per fer una llista ordenada, escrivim el numero amb un punt i seguit d'un espai per començar a escriure, d'aquesta manera:
+
+1. ALEX
+2. HOLA
+3. ADEU
+
+L'altre tipus és posant un esterisc al pincipi 
+
+* ALEX
+* HOLA
+* ADEU
+
 
 
