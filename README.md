@@ -57,5 +57,13 @@ L'altre tipus és posant un esterisc al pincipi
 * HOLA
 * ADEU
 
+5) Taules
+
+Per crear taula utilitzem la barra vertical, al principi i al final de la paraula o el text, també tenim 3 tipus d'aliniats, d'aquesta manera: 
+
+| Encapçalat 1 | Encapçalat 2 | Encapçalat 3 |
+:---: 
+
+
 
 
