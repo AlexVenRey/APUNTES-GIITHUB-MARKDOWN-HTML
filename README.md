@@ -27,17 +27,17 @@ __3. MARKDOWN__
 En Markdown hi ha 6 tipus diferents d'encapçalats, que són de més gran a més petit. Per a posar un encapçalat el que hem de fer és posar una etiqueta (#) al principi de cada linia. Segons el nombre d'etiquetes que posis a l'inici, la grandària de l'encapçalat serà més gran o més petit.
 Diferents tipus d'encpçalats:
 
-# Encapçalat
+# Encapçalat 1
 
-## Encapçalat
+## Encapçalat 2
 
-### Encapçalat
+### Encapçalat 3
 
-#### Encapçalat
+#### Encapçalat 4
 
-##### Encapçalat
+##### Encapçalat 5
 
-###### Encapçalat
+###### Encapçalat 6
 
 2) Negreta o cursiva
 
