@@ -1,12 +1,12 @@
 # APUNTS-GITHUB-MARKDOWN-HTML
 __INTRODUCCIÓ:__
-Primer de tot hem hagut d'instal·lar el GitHub i el VisualStudioCode per poder treballar els següents temes explicats a clase:
+Primer de tot hem hagut d'instal·lar el GitHub i el VisualStudioCode per poder treballar els següents llenguatges de marques explicats a clase:
 
-  -GITHUB
+  * GITHUB
   
-  -MARKDOWN
+  * MARKDOWN
   
-  -HTML
+  * HTML
   
 __1. GITHUB__
 
@@ -22,7 +22,7 @@ __3. MARKDOWN__
   
   El primer llenguatge de marques que hem vist ha sigut Markdown, i hem vist el següent:
 
-1) Encapçalats
+__1) Encapçalats__
 
 En Markdown hi ha 6 tipus diferents d'encapçalats, que són de més gran a més petit. Per a posar un encapçalat el que hem de fer és posar una etiqueta (#) al principi de cada linia. Segons el nombre d'etiquetes que posis a l'inici, la grandària de l'encapçalat serà més gran o més petit.
 Diferents tipus d'encpçalats:
@@ -39,17 +39,17 @@ Diferents tipus d'encpçalats:
 
 ###### Encapçalat 6
 
-2) Negreta o cursiva
+__2) Negreta o cursiva__
 
 Per a posar negreta el que hem de fer és posar dues barres baixes al principi i final de la frase o paraula, com per exemple en el nostre cas __ALEX__ . D'altra banda també tenim la cursiva que en aquest cas es posa amb un asteric al principi i al final de la frase o paraula, com ara *ALEX* . Per últim tenim la combinació d'aquestes dues que es fa posant primer les barres baixes i seguidament l'astérisc, per exemple __*ALEX*__ .
   
-3) Imatges
+__3) Imatges__
 
 També podem introduir imatges utilitzant un signe d'exclamació i seguit obrim un claudator i dins poses el nom que vulguis per la foto, una vegada tancat el claudator obres un parentesi i poses el link de la imatge, desprès dins del mateix parentesi, entre comes posem una nota que volem que es mostri quan fem clic. Com en l'exemple següent:
 
 ![foto](https://www.larepublica.net/storage/images/2019/08/23/20190823094751.informatica.x2.jpg "Clic per anar a la foto")
 
-4) Llistes
+__4) Llistes__
 
 Hi ha 2 tipus de llistes per fer una llista ordenada, escrivim el numero amb un punt i seguit d'un espai per començar a escriure, d'aquesta manera:
  
@@ -63,7 +63,7 @@ L'altre tipus és posant un esterisc al pincipi, d'aquesta forma:
 * HOLA
 * ADEU
 
-5) Taules
+__5) Taules__
 
 Per crear taula utilitzem la barra vertical, al principi i al final de la paraula o el text, també tenim 3 tipus d'aliniats, d'aquesta manera: 
 
@@ -73,8 +73,10 @@ Per crear taula utilitzem la barra vertical, al principi i al final de la paraul
 | Producte 2 | Gomes | 2€ |
 | Producte 3 | Bolis | 3€ |
 
-6) Hipervíncles
+__6) Hipervíncles__
 
-Per crear un hipervincle hem de posar entre claudators el nom que volem que surti per que així sapiguem a quina pàgina  ens porta. Seguit entre paréntesi posem la URL de la pàgina web, i finalment entre cometes escrivim un missatge que vols que surti ens posem amb el cursos a sobre del hipervincle.
+Per crear un hipervincle hem de posar entre claudators el nom que volem que surti per que així sapiguem a quina pàgina  ens porta. Seguit entre paréntesi posem la URL de la pàgina web, i finalment entre cometes dins del parentesi escrivim un missatge que vols que surti ens posem amb el cursor a sobre del hipervincle. A continuació tenim un exemple:
+
+[Pàgina oficial de GitHub](https://github.com/ "Fes clic per anar a GitHub")
 
 
