@@ -68,8 +68,7 @@ L'altre tipus és posant un esterisc al pincipi, d'aquesta forma:
 Per crear taula utilitzem la barra vertical, al principi i al final de la paraula o el text, també tenim 3 tipus d'aliniats, d'aquesta manera: 
 
 | Encapçalat 1 | Encapçalat 2 | Encapçalat 3 |
-:---: 
-
-
-
-
+| :----------: | :----------- | -----------: |
+| Producte 1 | Llapis | 1€ |
+| Producte 2 | Gomes | 2€ |
+| Producte 3 | Bolis | 3€ |
