@@ -49,7 +49,7 @@ També podem introduir imatges utilitzant un signe d'exclamació i seguit obrim 
 4) Llistes
 
 Hi ha 2 tipus de llistes per fer una llista ordenada, escrivim el numero amb un punt i seguit d'un espai per començar a escriure, d'aquesta manera:
-
+ 
 1. ALEX
 2. HOLA
 3. ADEU
