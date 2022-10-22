@@ -72,3 +72,9 @@ Per crear taula utilitzem la barra vertical, al principi i al final de la paraul
 | Producte 1 | Llapis | 1€ |
 | Producte 2 | Gomes | 2€ |
 | Producte 3 | Bolis | 3€ |
+
+6) Hipervíncles
+
+Per crear un hipervincle hem de posar entre claudators el nom que volem que surti per que així sapiguem a quina pàgina  ens porta. Seguit entre paréntesi posem la URL de la pàgina web, i finalment entre cometes escrivim un missatge que vols que surti ens posem amb el cursos a sobre del hipervincle.
+
+
