@@ -1,6 +1,9 @@
 # APUNTS-GITHUB-MARKDOWN-HTML
-Els passos que fet servir són els següents:
-  Primer hem hagut d'instal·lar el GitHub i el VisualStudioCode
+__INTRODUCCIÓ:__
+Primer de tot hem hagut d'instal·lar el GitHub i el VisualStudioCode per poder treballar els següents temes explicats a clase:
+  GITHUB
+  MARKDOWN
+  HTML
   
 __1. GITHUB__
 
