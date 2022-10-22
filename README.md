@@ -57,7 +57,7 @@ Hi ha 2 tipus de llistes per fer una llista ordenada, escrivim el numero amb un 
 2. HOLA
 3. ADEU
 
-L'altre tipus és posant un esterisc al pincipi 
+L'altre tipus és posant un esterisc al pincipi, d'aquesta forma: 
 
 * ALEX
 * HOLA
