@@ -1,5 +1,5 @@
 # APUNTS-GITHUB-MARKDOWN-HTML
-Els passos que fet seservir són els següents:
+Els passos que fet servir són els següents:
   Primer hem hagut d'instal·lar el GitHub i el VisualStudioCode
   
 __1. GITHUB__
