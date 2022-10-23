@@ -13,10 +13,41 @@ __1. GITHUB__
 GitHub, és una pàgina web que serveix per crear i guardar els repositoris que anem creant. També amb el CMD (Símbol del Sistema) del nostre equip podem fer una cópia  local per treballar des del teu equip i no des del navegador.
 [Llista de comandos](https://gist.github.com/dasdo/9ff71c5c0efa037441b6 "Llista de comandos")
 
+Per crear un repositori hem de seguir els àssos següents:
+
+* Primer de tot anar l'apartat de "repositoris" i des de allà donar-li a "nou", per així crear un repositori nou.  
+
+![Captura de pantalla (6)](https://user-images.githubusercontent.com/113421752/197405357-0658d1d1-ec06-44f8-9f55-5ed2d022b974.png)
+
+![Captura de pantalla (7)](https://user-images.githubusercontent.com/113421752/197405226-43a9dee3-fee7-40f6-8d51-a23c6c764585.png)
+
+* Despres una vegada l'estem creant, escrivim el nom que li volguem posar al repositori.
+
+![Captura de pantalla 8](https://user-images.githubusercontent.com/113421752/197406016-55d3a712-f4ff-4df0-be6c-e0df161b773b.png)
+
+* El deixem en estat públic.
+
+![Captura de pantalla 9](https://user-images.githubusercontent.com/113421752/197406156-86db32c4-da6a-459b-a985-3c128b966bfe.png)
+
+* Seleccionem la opció "Add a README file".
+
+![Captura de pantalla 10](https://user-images.githubusercontent.com/113421752/197406434-a4d4ad46-6ab2-43cb-9082-78203d317c19.png)
+
+* Baixem fins a baix de la pàgina i li donem a "crear el repositori".
+
+![Captura de pantalla 11](https://user-images.githubusercontent.com/113421752/197406597-969f816c-514a-415d-91d9-5acc2f8da89b.png)
+
 __2. VISUAL STUDIO CODE__
 
 Per a descarregar-ho hem accedit a la pàgina web de Visual Studio code, i ens hem descarregat la versió de 64 bits.
+
 [VisualStudioCode](https://code.visualstudio.com/ "VisualStudioCode")
+
+Per obrir una fulla de Visual Studio Code es fa de la següent forma:
+
+* A la part superior esquerra li donem a la pestanya de "Archivo", i seguit li posem el nom a l'arxiu que volguem.
+
+![Captura de pantalla 12](https://user-images.githubusercontent.com/113421752/197407282-ceabf042-ae72-4738-948e-81a8f25284b0.png)
   
 __3. MARKDOWN__
   
@@ -78,5 +109,14 @@ __6) Hipervíncles__
 Per crear un hipervincle hem de posar entre claudators el nom que volem que surti per que així sapiguem a quina pàgina  ens porta. Seguit entre paréntesi posem la URL de la pàgina web, i finalment entre cometes dins del parentesi escrivim un missatge que vols que surti ens posem amb el cursor a sobre del hipervincle. A continuació tenim un exemple:
 
 [Pàgina oficial de GitHub](https://github.com/ "Fes clic per anar a GitHub")
+
+__HTML__
+
+Aquest és el segon llenguatge de marques que hem vist.
+
+Sempre, el nostre primer pas en el HTML serà escriure html5 des del Visual Studio Code. 
+
+![Captura de pantalla (16)](https://user-images.githubusercontent.com/113421752/197408087-bddf2a07-3601-4b99-afc2-dae220c99ddf.png)
+
 
 
