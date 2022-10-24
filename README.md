@@ -118,5 +118,16 @@ Sempre, el nostre primer pas en el HTML serà escriure html5 des del Visual Stud
 
 ![Captura de pantalla (16)](https://user-images.githubusercontent.com/113421752/197408087-bddf2a07-3601-4b99-afc2-dae220c99ddf.png)
 
+En l'apartat de <body> podrem escriure tot el text que volguem veure. Podem escriure diferentes instruccions, com ara:
+
+1. Per introduir paràgrafs és: ```<p> text </p>```
+
+2. Per crear hipervíncles és: ```<a href="enllaç" </a>```
+
+3. Per crear llistes ordenades és: ```<ol> i seguit posem <li>```
+
+4. Per crear llistes desordenades és: ```<ul> i seguit posem <li>```
+
+5. Per introduïr imatges és: ```<img src="enllaç_de la_imatge"> alt="comentari_que_vulguis"> ```
 
 
