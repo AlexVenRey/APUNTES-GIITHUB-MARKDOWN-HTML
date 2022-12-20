@@ -51,7 +51,7 @@ Per obrir una fulla de Visual Studio Code es fa de la següent forma:
   
 __3. MARKDOWN__
   
-  El primer llenguatge de marques que hem vist ha sigut Markdown, i hem vist el següent:
+ El primer llenguatge de marques que hem vist ha sigut Markdown.
 
 __1) Encapçalats__
 
@@ -112,9 +112,9 @@ Per crear un hipervincle hem de posar entre claudators el nom que volem que surt
 
 __4. HTML__
 
-Aquest és el segon llenguatge de marques que hem vist.
+HTML és el segon llenguatge de marques que hem vist.
 
-Sempre, el nostre primer pas en el HTML serà escriure html5 des del Visual Studio Code. 
+Sempre, el nostre primer pas en el HTML serà escriure html:5 des del Visual Studio Code. 
 
 ![Captura de pantalla (16)](https://user-images.githubusercontent.com/113421752/197408087-bddf2a07-3601-4b99-afc2-dae220c99ddf.png)
 
@@ -132,6 +132,10 @@ En l'apartat de <body> podrem escriure tot el text que volguem veure. Podem escr
 
 6. Per centrar una imatge o un text: ```<center>text o imatge</center>```
 
-__CSS__
+__5. CSS__
+ 
+CSS és el tercer llenguatge de marques que hem vist. 
+ 
+
 
 
