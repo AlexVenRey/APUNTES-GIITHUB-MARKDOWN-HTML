@@ -7,6 +7,8 @@ Primer de tot hem hagut d'instal·lar el GitHub i el VisualStudioCode per poder 
   * MARKDOWN
   
   * HTML
+
+  * CSS
   
 __1. GITHUB__
 
