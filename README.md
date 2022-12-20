@@ -29,7 +29,7 @@ Per crear un repositori hem de seguir els àssos següents:
 
 ![Captura de pantalla 9](https://user-images.githubusercontent.com/113421752/197406156-86db32c4-da6a-459b-a985-3c128b966bfe.png)
 
-* Seleccionem la opció "Add a README file".
+* Seleccionem la opció "Add a README file". 
 
 ![Captura de pantalla 10](https://user-images.githubusercontent.com/113421752/197406434-a4d4ad46-6ab2-43cb-9082-78203d317c19.png)
 
