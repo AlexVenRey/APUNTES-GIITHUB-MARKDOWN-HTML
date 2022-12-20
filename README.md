@@ -110,7 +110,7 @@ Per crear un hipervincle hem de posar entre claudators el nom que volem que surt
 
 [Pàgina oficial de GitHub](https://github.com/ "Fes clic per anar a GitHub")
 
-__HTML__
+__4. HTML__
 
 Aquest és el segon llenguatge de marques que hem vist.
 
@@ -129,5 +129,9 @@ En l'apartat de <body> podrem escriure tot el text que volguem veure. Podem escr
 4. Per crear llistes desordenades és: ```<ul> i seguit posem <li>```
 
 5. Per introduïr imatges és: ```<img src="enllaç_de la_imatge"> alt="comentari_que_vulguis"> ```
+
+6. Per centrar una imatge o un text: ```<center>text o imatge</center>```
+
+__CSS__
 
 
