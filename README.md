@@ -124,11 +124,11 @@ En l'apartat de <body> podrem escriure tot el text que volguem veure. Podem escr
 
 2. Per crear hipervíncles és: ```<a href="enllaç" </a>```
 
-3. Per crear llistes ordenades és: ```<ol>``` i dins d'aquesta etiqueta posem <li> per cada element
+3. Per crear llistes ordenades és: ```<ol>``` i dins d'aquesta etiqueta posem ```<li>``` per cada element.
 
-4. Per crear llistes desordenades és: ```<ul>``` i dins d'aquesta etiqueta posem <li> per cada element
+4. Per crear llistes desordenades és: ```<ul>``` i dins d'aquesta etiqueta posem ```<li>``` per cada element.
 
-5. Per introduïr imatges és: ```<img src="enllaç_de la_imatge" alt="comentari_que_vulguis"> ```
+5. Per introduïr imatges és: ```<img src="enllaç_de la_imatge" alt="comentari_que_vulguis">```
 
 6. Per centrar una imatge o un text: ```<center>text o imatge</center>```
  
@@ -140,9 +140,9 @@ __5. CSS__
  
 CSS és el tercer llenguatge de marques que hem vist.
 
-Per poder utilitzar el CSS, haurem de tenir 2 arxius al Visual Studio Code, un primer arxiu amb el HTML i un altre pel CSS, i fer un link per que es vinculin els dos arxius. 
+Per poder utilitzar el CSS, haurem de tenir 2 arxius al Visual Studio Code, un primer arxiu amb el HTML i un altre pel CSS, i fer un link en l'arxiu index.html per que es vinculin els dos arxius. 
 
-![html css](https://user-images.githubusercontent.com/113421752/208620834-f61cb48c-60d8-47d8-8490-c6ba24bf6bb9.png "foto")
+![index html estilos css](https://user-images.githubusercontent.com/113421752/208633542-75599570-f715-40cd-9f76-71f8339fb8e2.png)
 
 * A continuació mostraré una serie de funcions que pots fer amb el CSS:
 
