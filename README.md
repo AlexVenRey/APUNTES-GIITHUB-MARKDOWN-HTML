@@ -142,7 +142,7 @@ __5. CSS__
  
 CSS és el tercer llenguatge de marques que hem vist.
 
-Per poder utilitzar el CSS, haurem de tenir 2 arxius al Visual Studio Code, un primer arxiu amb el HTML i un altre pel CSS, i fer un link en l'arxiu index.html per que es vinculin els dos arxius. 
+* Per poder utilitzar el CSS, haurem de tenir 2 arxius al Visual Studio Code, un primer arxiu amb el HTML i un altre pel CSS, i fer un link en l'arxiu index.html per que es vinculin els dos arxius. 
 
 ![index html estilos css](https://user-images.githubusercontent.com/113421752/208633542-75599570-f715-40cd-9f76-71f8339fb8e2.png)
 
