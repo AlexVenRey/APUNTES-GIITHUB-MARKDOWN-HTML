@@ -142,16 +142,16 @@ Per poder utilitzar el CSS, haurem de tenir 2 arxius al Visual Studio Code, un p
 
 * A continuació mostraré una serie de funcions que pots fer amb el CSS:
 
-- ```Google Fonts``` serveix per utilitzar diferents lletres i estils.
-- Per crear un recuadre al voltant d'un paràgraf: ```border```
-- Per fer un marge de separació entre l’altre bloc: ```margin``` 
-- Per fer una distància entre el requadre del voltant i el text: ```padding```
-- Per fer les cantonades corbes d’un requadre: ```border-radius```
-- Per determinar l'amplada d'un contingut: ```width``` 
-- Per determinar la grandaria del text: ```font-weight```
-- El color del text: ```color``` 
-- El color del fons del text: ```backgroung-color```
-- Per seleccionar una part en concret (paraula/text), utilitzem: ```id``` es mostra amb un punt ```.```
-- Per decorar el text amb més opcions podem utilitzar: ```text-decoration``` 
+-```Google Fonts``` serveix per utilitzar diferents lletres i estils.
+-Per crear un recuadre al voltant d'un paràgraf: ```border```
+-Per fer un marge de separació entre l’altre bloc: ```margin``` 
+-Per fer una distància entre el requadre del voltant i el text: ```padding```
+-Per fer les cantonades corbes d’un requadre: ```border-radius```
+-Per determinar l'amplada d'un contingut: ```width``` 
+-Per determinar la grandaria del text: ```font-weight```
+-El color del text: ```color``` 
+-El color del fons del text: ```backgroung-color```
+-Per seleccionar una part en concret (paraula/text), utilitzem: ```id``` es mostra amb un punt ```.```
+-Per decorar el text amb més opcions podem utilitzar: ```text-decoration``` 
  
  
