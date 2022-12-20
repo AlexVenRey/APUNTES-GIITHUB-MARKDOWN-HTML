@@ -1,4 +1,4 @@
-# APUNTS-GITHUB-MARKDOWN-HTML 
+# APUNTS-GITHUB-MARKDOWN-HTML-CSS 
 __INTRODUCCIÓ:__
 Primer de tot hem hagut d'instal·lar el GitHub i el VisualStudioCode per poder treballar els següents llenguatges de marques explicats a clase:
 
