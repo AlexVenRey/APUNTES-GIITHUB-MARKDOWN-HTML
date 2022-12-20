@@ -134,8 +134,10 @@ En l'apartat de <body> podrem escriure tot el text que volguem veure. Podem escr
 
 __5. CSS__
  
-CSS és el tercer llenguatge de marques que hem vist. 
- 
+CSS és el tercer llenguatge de marques que hem vist.
 
+Per poder utilitzar el CSS, haurem de tenir 2 arxius al Visual Studio Code, un primer arxiu amb el HTML i un altre pel CSS.
+
+![foto](![html css](https://user-images.githubusercontent.com/113421752/208620834-f61cb48c-60d8-47d8-8490-c6ba24bf6bb9.png "foto")
 
 
