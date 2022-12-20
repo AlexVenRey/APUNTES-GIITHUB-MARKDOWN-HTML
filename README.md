@@ -131,6 +131,10 @@ En l'apartat de <body> podrem escriure tot el text que volguem veure. Podem escr
 5. Per introduïr imatges és: ```<img src="enllaç_de la_imatge"> alt="comentari_que_vulguis"> ```
 
 6. Per centrar una imatge o un text: ```<center>text o imatge</center>```
+ 
+7. per dividir la pàgina en sectors: ```div ```
+ 
+8. Per resaltar paraules en un paragraf: ```span``` 
 
 __5. CSS__
  
