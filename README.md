@@ -132,7 +132,7 @@ En l'apartat de <body> podrem escriure tot el text que volguem veure. Podem escr
 
 6. Per centrar una imatge o un text: ```<center>text o imatge</center>```
  
-7. per dividir la pàgina en sectors: ```div ```
+7. Per dividir la pàgina en sectors: ```div ```
  
 8. Per resaltar paraules en un paragraf: ```span``` 
 
