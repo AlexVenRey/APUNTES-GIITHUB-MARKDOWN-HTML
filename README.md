@@ -124,17 +124,17 @@ En l'apartat de <body> podrem escriure tot el text que volguem veure. Podem escr
 
 2. Per crear hipervíncles és: ```<a href="enllaç" </a>```
 
-3. Per crear llistes ordenades és: ```<ol> i seguit posem <li>```
+3. Per crear llistes ordenades és: ```<ol>``` i dins d'aquesta etiqueta posem <li> per cada element
 
-4. Per crear llistes desordenades és: ```<ul> i seguit posem <li>```
+4. Per crear llistes desordenades és: ```<ul>``` i dins d'aquesta etiqueta posem <li> per cada element
 
-5. Per introduïr imatges és: ```<img src="enllaç_de la_imatge"> alt="comentari_que_vulguis"> ```
+5. Per introduïr imatges és: ```<img src="enllaç_de la_imatge" alt="comentari_que_vulguis"> ```
 
 6. Per centrar una imatge o un text: ```<center>text o imatge</center>```
  
-7. Per dividir la pàgina en sectors: ```div ```
+7. Per dividir la pàgina en sectors: ```div ``` i dins posem el text que volem dins d'aquest sector.
  
-8. Per resaltar paraules en un paragraf: ```span``` 
+8. Per resaltar paraules en un paragraf: ```span``` i seguit posem allò que volem resaltar.
 
 __5. CSS__
  
