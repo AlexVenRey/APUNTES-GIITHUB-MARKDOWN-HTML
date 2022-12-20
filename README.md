@@ -136,8 +136,22 @@ __5. CSS__
  
 CSS és el tercer llenguatge de marques que hem vist.
 
-Per poder utilitzar el CSS, haurem de tenir 2 arxius al Visual Studio Code, un primer arxiu amb el HTML i un altre pel CSS.
+Per poder utilitzar el CSS, haurem de tenir 2 arxius al Visual Studio Code, un primer arxiu amb el HTML i un altre pel CSS, i fer un link per que es vinculin els dos arxius. 
 
 ![html css](https://user-images.githubusercontent.com/113421752/208620834-f61cb48c-60d8-47d8-8490-c6ba24bf6bb9.png "foto")
 
+* A continuació mostraré una serie de funcions que pots fer amb el CSS:
 
+- ```Google Fonts``` serveix per utilitzar diferents lletres i estils.
+- Per crear un recuadre al voltant d'un paràgraf: ```border```
+- Per fer un marge de separació entre l’altre bloc: ```margin``` 
+- Per fer una distància entre el requadre del voltant i el text: ```padding```
+- Per fer les cantonades corbes d’un requadre: ```border-radius```
+- Per determinar l'amplada d'un contingut: ```width``` 
+- Per determinar la grandaria del text: ```font-weight```
+- El color del text: ```color``` 
+- El color del fons del text: ```backgroung-color```
+- Per seleccionar una part en concret (paraula/text), utilitzem: ```id``` es mostra amb un punt ```.```
+- Per decorar el text amb més opcions podem utilitzar: ```text-decoration``` 
+ 
+ 
